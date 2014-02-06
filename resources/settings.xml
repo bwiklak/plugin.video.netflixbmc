@@ -28,5 +28,6 @@
         <setting id="dontUseKiosk" type="bool" label="30133" default="false"/>
         <setting id="winBrowserNew" type="enum" label="30104" values="Chrome|IExplorer" default="0"/>
         <setting id="osxBrowser" type="enum" label="30105" values="Chrome|Safari" default="0"/>
+        <setting id="useMediaHint" type="bool" label="30205" default="false"/>
     </category>
 </settings>
